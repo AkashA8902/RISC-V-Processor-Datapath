@@ -22,7 +22,4 @@ This is the **final, complete version** of Project 6 (Part B), representing a fu
 - ✔ Clean, modular Verilog design  
 - ✔ Includes PDF **project report**
 
----
-
-## 📂 Repository Structure
 
